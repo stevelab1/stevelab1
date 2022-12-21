@@ -1,7 +1,6 @@
 ### Hello! 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelab1&langs_count=9&theme=tokyonight)
 
 
 <!--
@@ -9,6 +8,7 @@
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on API and AI projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelab1&langs_count=9&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
